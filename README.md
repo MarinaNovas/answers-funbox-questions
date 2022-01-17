@@ -142,5 +142,14 @@ official documentation
 
 Целеустремленная перфекционистка, но при этом стараюсь быть жизнерадостным и легким в общении человеком. Поддерживаю здоровый образ жизни.
 
-Учебный проект на React. Использовались классы и состояния. https://game-tic-tac-toe-sms.herokuapp.com/
+Учебные проекты на React:
+1) Game Tic Tac Toe Использовались классы и состояния:
+   deploy: https://game-tic-tac-toe-sms.herokuapp.com/
+   github: https://github.com/MarinaNovas/paper-rock-scissors
+   
+2) Game Paper Rock Scissors. Использовался фкнциональный подход и хуки. 
+   deploy: https://paper-rock-scissors-sms.herokuapp.com/
+   github: https://github.com/MarinaNovas/paper-rock-scissors
 
+3) Quiz game. Использовался фкнциональный подход, хуки, Trivia API (https://opentdb.com/api_config.php)
+   github: https://github.com/MarinaNovas/Quiz-app-React
