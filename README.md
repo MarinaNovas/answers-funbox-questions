@@ -160,3 +160,9 @@ official documentation
    deploy: https://quize-game-sms.herokuapp.com/
    
    github: https://github.com/MarinaNovas/Quiz-app-React
+
+#### 4) Infinite image gallery. Использовался фкнциональный подход, хуки, unsplash api 
+
+   deploy: https://infinite-image-gallery.herokuapp.com/
+   
+   github: https://github.com/MarinaNovas/Infinite-image-gallery
